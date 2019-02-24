@@ -1,2 +1,2 @@
-# C_programming
+# C-programming
 C-programming projects and exercises
